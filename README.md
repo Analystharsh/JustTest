@@ -15,3 +15,12 @@
 !sudo apt-key adv --fetch-keys https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/7fa2af80.pub
 !apt-get update
 !apt-get install cuda-10-0
+
+
+
+
+
+https://drive.google.com/file/d/1mCQBIbwz_AI0fqDwYNdFMe9w6MZGzaQ9/view
+
+https://drive.google.com/file/d/1_RAj-htxVnzhKGtw3m1TZ-jecieuoF20/view
+
