@@ -7,6 +7,7 @@
 !apt autoremove
 !apt-get update
 
+
 #Download CUDA 10.0
 !wget  --no-clobber https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-repo-ubuntu1804_10.0.130-1_amd64.deb
 #install CUDA kit dpkg
