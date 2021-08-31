@@ -17,6 +17,9 @@
 !apt-get install cuda-10-0
 
 
+9dFnGLgdzd6eL.Y
+
+
 
 
 
