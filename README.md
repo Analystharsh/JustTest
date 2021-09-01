@@ -19,7 +19,7 @@
 
 9dFnGLgdzd6eL.Y
 
-
+!pip3 install torch==1.1.0 torchvision==0.3.0 -f https://download.pytorch.org/whl/cu100/torch_stable.html
 
 
 
